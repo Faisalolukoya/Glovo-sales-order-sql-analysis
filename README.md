@@ -1,7 +1,9 @@
 # Glovo-sales-order-sql-analysis
   PROJECT OVERVIEW
+
 This project analysis a glovo order dataset using SQL to uncover valuable business insights relating to sales performance, profitability customer behaviour, delivery efficiency and payment trends. This analysis demonstrate how SQL can be used to answer real world business questions and support data driven decision making.
-    PROJECT OBJECTIVES
+
+  PROJECT OBJECTIVES
 - It analyze sales and profit performance across different locations.
 - Evaluate customer and purchasing behaviour and profitability.
 - Measure delivery performance and customer satisfaction.
@@ -38,6 +40,7 @@ This project analysis a glovo order dataset using SQL to uncover valuable busine
 - It identifitd high value customers using SQL analytics.
 
     CONCLUSION
+
   This project demonstrate how SQL can be used to transform raw transactional data into meaningful business insights. By analysing sales performance, customer bahaviour, delivery efficiency and profitability. The project showcases practical SQL techniques commonly used in data analytics. It highlights the ability to write efficient queries, solve real world business problems and support data driven decision making.
    
 
